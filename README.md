@@ -7,7 +7,9 @@ Created by deeplearning.py
 
 ## Introduction
 
-This my programming assignments for this speciazation. Because I cannot access to the courses which are ended, I foked Kulbear's work for Course 1-3 and add my assignments for course 4 Convolutional Neural Networks and course 5 Sequence Models. To notice, some small changes in code may exist because they are still update the assignments. 
+I just accomplished all courses of Deep Learning Specialization! Congratulations to myself.
+
+This my programming assignments for this speciazation. Because I cannot access to the courses which are ended, I foked Kulbear's work for Course 1-3 and add my assignments for course 4 Convolutional Neural Networks and course 5 Sequence Models. To notice, some small changes in code may exist because they are still updating the assignments. 
 
 All the rights belongs to [Deep Learning Specialization on Coursera(https://www.coursera.org/specializations/deep-learning).
 
